@@ -35,7 +35,7 @@ public class ShopDemoTest {
         productList.add(product1);
 
         shop.productList=productList;
-        shop.selectionProcess(product2 );
+        shop.selectionProcess(product2);
 
 
 
